@@ -11,7 +11,7 @@
 
 ## EXECUTIVE SUMMARY
 
-EduBox Global Initiative will bring offline digital education to 258.4 million out-of-school children worldwide through $100 open-source education devices. We will bootstrap operations with volunteer board members, seeking initial funding through grants and small donations while building our first prototypes.
+EduBox Global Initiative will bring offline digital education to 258.4 million out-of-school children worldwide through affordable open-source education servers (starting at $200). We will bootstrap operations with volunteer board members, seeking initial funding through grants and small donations while building our first prototypes.
 
 **Key Success Factors:**
 - Zero employee costs initially (board volunteers)

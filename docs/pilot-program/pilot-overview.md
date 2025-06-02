@@ -4,13 +4,14 @@
 
 ### What is EduBox?
 
-EduBox is a revolutionary $100 education server that brings world-class digital learning resources to schools without reliable internet. One device can serve 500+ students with:
+EduBox is an affordable education server that brings world-class digital learning resources to schools without internet. Starting at $200, each server creates its own WiFi network and provides:
 
 - **Khan Academy** - Complete K-12 curriculum in math, science, and more
-- **Wikipedia** - 6 million articles in multiple languages
+- **Wikipedia** - 6 million articles in multiple languages  
 - **Educational Videos** - Thousands of lessons offline
 - **E-Books** - Digital library with textbooks and literature
-- **Learning Games** - Interactive educational content
+- **Built-in WiFi** - Creates network for 30-50 simultaneous users (no internet needed)
+- **Daily Capacity** - Serves 200-300 students in shifts throughout the day
 
 ### Why Join Our Pilot Program?
 

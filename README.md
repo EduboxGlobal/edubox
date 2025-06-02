@@ -4,35 +4,51 @@
 Bring quality education to the 258.4 million children worldwide who lack access to schools and internet, using low-cost, sustainable technology.
 
 ## What is EduBox?
-EduBox is a $100 education server that provides:
-- Complete offline access to Khan Academy (via KA Lite)
-- Wikipedia in multiple languages
-- Educational videos and interactive content
-- Local curriculum materials
-- Progress tracking for students
-- Works with any WiFi-enabled device (phones, tablets, old laptops)
+EduBox is an affordable education server (starting at $200) that provides:
+- Complete offline access to Khan Academy, Wikipedia, and educational content
+- Creates its own WiFi network - no internet required
+- Serves 30-50 students simultaneously (200-300 daily in shifts)
+- Works with any WiFi-enabled device (phones, tablets, computers)
+- Includes everything needed: server, WiFi router, and setup
 
-### Device Access Options
-- **Bring Your Own Device**: Use existing phones, tablets, or computers
-- **Basic Package ($100)**: Server only - for schools with devices
-- **Enhanced Package ($150)**: Server + 5 shared tablets
-- **Complete Classroom ($500)**: Server + 25 tablets for full access
+### Package Options
+- **Basic Education Server ($200)**: Serves small schools (up to 200 students)
+  - Raspberry Pi-based server with built-in WiFi
+  - 30-50 concurrent users
+  
+- **Standard Education Server ($350)**: Serves medium schools (200-500 students) 
+  - More powerful hardware, enterprise WiFi
+  - 75-100 concurrent users
+  
+- **Complete Classroom ($500-750)**: Includes server + basic tablets
+  - Everything in Standard package
+  - 5-10 shared tablets for schools without devices
 
 ## Key Features
-- **Cost**: Under $100 complete system
-- **Capacity**: Serves 500+ students simultaneously
-- **Content**: 50GB+ of curated educational materials
-- **Languages**: Supports 40+ languages
-- **Power**: Low power consumption, flexible power options
-- **Updates**: Content can be updated via USB when internet is available
+- **Affordable**: 90% cheaper than traditional computer labs
+- **Self-Contained**: Creates its own WiFi network - no internet needed
+- **Realistic Capacity**: 30-50 concurrent users, 200-300 daily users
+- **Complete Package**: Includes server, WiFi router, and all setup
+- **Content**: 50GB+ of curated educational materials in 40+ languages
+- **Power Efficient**: 15-25W consumption, battery backup options
+- **Offline Updates**: Content updated via USB when internet is available
 
-## Hardware Requirements
-- Raspberry Pi 4 (4GB RAM): $55
-- 64GB microSD card: $10
-- Power supply/battery backup: $20
-- WiFi antenna (extended range): $10
-- Weatherproof case: $5
-- **Total: ~$100**
+## Hardware Components
+
+### Basic Package (~$200)
+- Raspberry Pi 4 (8GB RAM): $75
+- 128GB high-speed SD card: $20
+- Quality WiFi router/access point: $40
+- Power supply with backup: $30
+- Cooling & weatherproof case: $20
+- Cables and accessories: $15
+
+### Standard Package (~$350)
+- Mini PC (Intel NUC or similar): $200
+- 256GB SSD storage: $40
+- Enterprise WiFi access point: $60
+- UPS battery backup: $30
+- Professional enclosure: $20
 
 ## Software Stack
 - **OS**: Raspberry Pi OS Lite
