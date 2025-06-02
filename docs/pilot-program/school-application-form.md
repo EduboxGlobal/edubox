@@ -247,11 +247,10 @@ I confirm that:
 
 ## Submission Instructions
 
-Please submit this completed form to: **pilots@edubox.org**
+Please submit this completed form to: **info@edubox.global**
 
 You can also:
-- Take photos of the completed form and WhatsApp to: +1-XXX-XXX-XXXX
-- Complete online at: [form link]
+- Complete online at: [form link - coming soon]
 
 We will review your application and respond within 7 days.
 

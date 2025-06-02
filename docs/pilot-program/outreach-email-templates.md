@@ -44,7 +44,7 @@ Best regards,
 [Your Name]
 EduBox Global Initiative
 Pilot Program
-pilots@edubox.global
+info@edubox.global
 
 ---
 

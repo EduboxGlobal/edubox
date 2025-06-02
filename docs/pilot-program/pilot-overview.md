@@ -126,7 +126,7 @@ We select pilot schools based on:
 
 ### Next Steps
 
-1. **Express Interest**: Email pilots@edubox.org
+1. **Express Interest**: Email info@edubox.global
 2. **Complete Application**: We'll send detailed forms
 3. **Virtual Interview**: 30-minute video call
 4. **Site Assessment**: Remote or in-person evaluation
@@ -135,9 +135,8 @@ We select pilot schools based on:
 
 ### Contact Information
 
-**Email**: pilots@edubox.org  
-**WhatsApp**: +1-XXX-XXX-XXXX  
-**Website**: https://github.com/yinzara/edubox  
+**Email**: info@edubox.global  
+**Website**: https://github.com/EduboxGlobal/edubox  
 **Application Deadline**: Rolling basis
 
 ---
