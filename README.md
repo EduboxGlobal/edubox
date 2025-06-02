@@ -12,6 +12,12 @@ EduBox is a $100 education server that provides:
 - Progress tracking for students
 - Works with any WiFi-enabled device (phones, tablets, old laptops)
 
+### Device Access Options
+- **Bring Your Own Device**: Use existing phones, tablets, or computers
+- **Basic Package ($100)**: Server only - for schools with devices
+- **Enhanced Package ($150)**: Server + 5 shared tablets
+- **Complete Classroom ($500)**: Server + 25 tablets for full access
+
 ## Key Features
 - **Cost**: Under $100 complete system
 - **Capacity**: Serves 500+ students simultaneously

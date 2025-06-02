@@ -15,10 +15,14 @@ EduBox is an open-source initiative to bring quality education to the 258.4 mill
 
 ### Technology
 - **Hardware**: Raspberry Pi-based server ($100 total cost)
-- **Power**: Solar-powered, works anywhere
+- **Power**: Flexible power options (grid, battery, generator)
 - **Content**: Offline Khan Academy, Wikipedia, educational videos
 - **Access**: Creates WiFi hotspot, works with any device
 - **Capacity**: Serves 500+ students simultaneously
+- **Device Options**: 
+  - Bring your own device model
+  - Basic tablets available ($30-50 each)
+  - Complete classroom packages
 
 ### Impact Model
 - **Year 1**: 100 schools, 50,000 children
@@ -36,14 +40,22 @@ EduBox is an open-source initiative to bring quality education to the 258.4 mill
 - Tax benefits in most countries
 
 ### 2. Technology Partners
-**Contribution**: Hardware, software, technical expertise
+**Contribution**: Hardware, software, technical expertise, devices
 **Benefits**:
 - CSR goals achievement
 - Employee volunteer opportunities
 - Brand visibility in emerging markets
 - Real-world testing of products
 
-### 3. Content Partners
+### 3. Device Partners (NEW)
+**Contribution**: Tablets, refurbished devices, bulk pricing
+**Benefits**:
+- Social impact metrics
+- Tax benefits for donations
+- Brand presence in education
+- Volume deployment opportunities
+
+### 4. Content Partners
 **Contribution**: Educational content, curriculum
 **Benefits**:
 - Massive distribution network
@@ -51,7 +63,7 @@ EduBox is an open-source initiative to bring quality education to the 258.4 mill
 - Localization opportunities
 - Government relationships
 
-### 4. Implementation Partners (NGOs)
+### 5. Implementation Partners (NGOs)
 **Role**: Local deployment and maintenance
 **Support Provided**:
 - Training materials
@@ -59,7 +71,7 @@ EduBox is an open-source initiative to bring quality education to the 258.4 mill
 - Hardware at cost
 - Impact measurement tools
 
-### 5. Government Partners
+### 6. Government Partners
 **Role**: Integration with national education systems
 **Benefits**:
 - Cost-effective education delivery
@@ -140,15 +152,10 @@ EduBox is an open-source initiative to bring quality education to the 258.4 mill
 
 ## Contact Information
 
-**EduBox Foundation**
-- Email: partnerships@edubox.org
-- Website: www.edubox.org
-- Phone: +1-xxx-xxx-xxxx
-
-**Regional Contacts**:
-- Africa: africa@edubox.org
-- Asia: asia@edubox.org
-- Americas: americas@edubox.org
+**EduBox Global Initiative**
+- Email: info@edubox.global
+- Website: www.edubox.global
+- GitHub: github.com/EduboxGlobal/edubox
 
 ---
 

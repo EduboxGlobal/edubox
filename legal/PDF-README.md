@@ -38,10 +38,6 @@ We have several scripts for different scenarios:
 - Works without any LaTeX installation
 - **Usage**: `./generate-legal-pdfs-html.sh [filename]`
 
-### 4. **generate-legal-pdfs.sh** & **generate-legal-pdfs-simple.sh**
-- Original scripts requiring full LaTeX installation
-- Kept for compatibility
-
 ## Requirements
 
 - **Pandoc**: Document converter (required for all scripts)

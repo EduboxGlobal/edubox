@@ -54,9 +54,10 @@ EduBox is a revolutionary $100 education server that brings world-class digital 
 
 ### What We Provide
 
+#### Track A: Standard Package (Schools with Devices)
 1. **Complete EduBox System**
    - Raspberry Pi-based server
-   - Solar panel & battery
+   - Power supply & battery backup
    - WiFi access point
    - Pre-loaded content
 
@@ -71,6 +72,13 @@ EduBox is a revolutionary $100 education server that brings world-class digital 
    - Monthly video check-ins
    - Remote technical assistance
    - Content update service
+
+#### Track B: Complete Package (Schools Needing Devices)
+Everything in Track A, plus:
+- 5-10 basic tablets (shared use model)
+- Device management training
+- Repair and maintenance guide
+- Device sharing best practices
 
 4. **Assessment Tools**
    - Pre/post learning assessments
@@ -90,7 +98,7 @@ EduBox is a revolutionary $100 education server that brings world-class digital 
    - Secure location for EduBox
    - Basic electrical connection
    - Gathering space for training
-   - Student devices (tablets/phones/computers)
+   - Student devices (tablets/phones/computers) OR commitment to device sharing program
 
 3. **Participation**
    - Monthly usage reports

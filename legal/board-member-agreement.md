@@ -16,36 +16,28 @@ As a Board Member, I agree to:
 - Exercise duty of care by attending meetings prepared and participating actively
 - Exercise duty of loyalty by putting the Organization's interests first
 - Exercise duty of obedience by ensuring compliance with laws and mission
-- Review and understand financial statements and budgets
 - Ensure prudent use of all assets and resources
 
 **3. Meeting Participation**
 - Attend at least 75% of board meetings annually (minimum 3 of 4)
 - Participate in committee meetings as assigned
 - Respond promptly to communications requiring board input
-- Come to meetings prepared, having reviewed all materials
 
-**4. Financial Commitment**
-- Make a personally meaningful annual financial contribution
-- Assist in fundraising through personal contacts and networks
-- Help secure financial resources through grants, partnerships, or donors
-- Review and approve the annual budget
-
-**5. Time Commitment**
-- Dedicate approximately 10-15 hours per month to board service
+**4. Time Commitment**
+- Dedicate approximately 1-2 hours per month to board service
 - Serve a full three-year term
 - Participate in strategic planning and program evaluation
 - Attend special events when possible
 
-**6. Governance**
+**5. Governance**
 - Understand and comply with the Bylaws
 - Complete annual conflict of interest disclosure
 - Maintain confidentiality of board discussions
 - Support board decisions once made
 
-**7. Program Support**
+**6. Program Support**
 - Stay informed about programs and services
-- Visit program sites when feasible
+- Visit program sites when feasible and prudent
 - Provide expertise and professional skills as appropriate
 - Connect the Organization with useful resources and contacts
 
@@ -55,7 +47,7 @@ The Organization agrees to:
 
 **1. Communication**
 - Provide timely and accurate information for decision-making
-- Give advance notice of meetings and events
+- Give advanced notice of meetings and events
 - Share regular updates on programs and impact
 - Be transparent about challenges and opportunities
 
@@ -83,15 +75,12 @@ I understand that:
 - This is a volunteer position with no compensation
 - I may resign at any time with written notice
 - I may be removed as outlined in the Bylaws
-- The Organization depends on active, engaged board members
 
 I have received and reviewed:
 - [ ] Articles of Incorporation
 - [ ] Bylaws
 - [ ] Conflict of Interest Policy
 - [ ] Mission, Vision, and Values Statement
-- [ ] Most recent financial statements
-- [ ] Current programs overview
 
 ### AGREEMENT
 
@@ -109,25 +98,7 @@ Email: _________________________________
 
 Phone: _________________________________
 
-**For the Organization:**
-
-Name: _________________________________
-
-Title: _________________________________
-
-Signature: _________________________________
-
-Date: _________________________________
-
----
-
-### EMERGENCY CONTACT
-
-Name: _________________________________
-
-Relationship: _________________________________
-
-Phone: _________________________________
+Address: _______________________________
 
 ### AREAS OF EXPERTISE
 Please check areas where you can contribute:
@@ -143,14 +114,3 @@ Please check areas where you can contribute:
 - [ ] Human Resources
 - [ ] Strategic Planning
 - [ ] Other: _________________
-
-### BIOGRAPHICAL INFORMATION
-Please provide a brief bio (100-150 words) for website and grant applications:
-
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________

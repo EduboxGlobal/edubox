@@ -37,7 +37,6 @@ These policies apply to all board members, staff, and volunteers handling financ
 
 **3.1 Annual Budget**
 - Prepared by Treasurer with staff input
-- Presented to Finance Committee
 - Approved by Board before fiscal year
 - Reviewed quarterly and amended as needed
 
@@ -100,7 +99,7 @@ These policies apply to all board members, staff, and volunteers handling financ
 - Bank reconciler ≠ person with bank access
 
 **6.2 Bank Accounts**
-- Board resolution to open/close
+- Board resolution to open/close after initial bank account is opened
 - Two signatures over $5,000
 - Monthly reconciliation
 - Online access limited and monitored
@@ -114,7 +113,7 @@ These policies apply to all board members, staff, and volunteers handling financ
 ### 7. FINANCIAL REPORTING
 
 **7.1 Internal Reports**
-Monthly:
+Monthly (should any transactions occur):
 - Bank reconciliations
 - Budget vs. actual
 - Cash flow statement
@@ -196,16 +195,6 @@ Quarterly to Board:
 ### 13. AMENDMENTS
 
 These policies may be amended by Board resolution. Staff will be notified of changes within 30 days.
-
----
-
-**APPENDICES**
-
-A. Expense Report Form
-B. Check Request Form
-C. Budget Template
-D. Financial Report Templates
-E. Donor Acknowledgment Template
 
 ---
 

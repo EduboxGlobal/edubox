@@ -101,6 +101,7 @@ The officers of the Corporation shall be:
 - Treasurer
 
 The Board may create additional officer positions as needed.
+One person my fulfill the role of more than one officer position.
 
 ### Section 6.2 - Election and Term
 - Officers shall be elected annually by the Board
@@ -165,7 +166,6 @@ The Board shall approve an annual budget.
 
 ### Section 8.3 - Financial Controls
 The Board shall ensure appropriate financial controls are in place, including:
-- Annual independent audit or review
 - Written financial policies
 - Regular financial reporting to the Board
 

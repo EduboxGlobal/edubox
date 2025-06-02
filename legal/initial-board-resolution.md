@@ -31,7 +31,7 @@ The undersigned, being all of the initial directors of EduBox Global Initiative,
 ### BANK ACCOUNTS
 
 **RESOLVED**, that the Treasurer is authorized to establish bank accounts on behalf of the Corporation at financial institutions selected by the Treasurer, and that the following officers are authorized to sign checks and conduct banking transactions:
-- Any two of: Chair, Treasurer, Secretary
+- Any of: Chair, Treasurer, Secretary
 
 ### TAX-EXEMPT STATUS
 
@@ -45,6 +45,7 @@ The undersigned, being all of the initial directors of EduBox Global Initiative,
 **RESOLVED**, that the following policies presented to the Board are hereby adopted:
 - Conflict of Interest Policy
 - Mission, Vision, and Values Statement
+- Financial Policies and Procedures
 
 **FURTHER RESOLVED**, that all directors and officers shall complete and sign the annual disclosure statement required by the Conflict of Interest Policy.
 
@@ -115,3 +116,4 @@ Director
 1. Bylaws
 2. Conflict of Interest Policy
 3. Mission, Vision, and Values Statement
+4. Financial Policies and Procedures

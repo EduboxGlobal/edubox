@@ -77,8 +77,21 @@ Thank you for your interest in the EduBox pilot program! Please complete this ap
 - [ ] Desktop computers (Number: _____)
 - [ ] Laptops (Number: _____)
 - [ ] Tablets (Number: _____)
-- [ ] Smartphones (Approximate %: _____)
-- [ ] None
+- [ ] Smartphones (Student ownership %: _____)
+- [ ] None / Very few (less than 10 total)
+
+**Device access ratio**: _____ students per device
+
+**Device condition**:
+- [ ] Good working condition
+- [ ] Some working, some broken
+- [ ] Mostly broken/outdated
+- [ ] No devices
+
+**Which pilot track interests you?**
+- [ ] Track A: We have sufficient devices (1:20 ratio or better)
+- [ ] Track B: We need devices included (current ratio worse than 1:20)
+- [ ] Not sure - please advise based on our situation
 
 ### Educational Resources
 **Current learning materials**:
