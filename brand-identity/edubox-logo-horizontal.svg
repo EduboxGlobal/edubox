@@ -1,0 +1,28 @@
+<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- EduBox Horizontal Logo with Network E -->
+
+  <!-- Icon section -->
+  <g id="icon">
+    <!-- Central E in box -->
+    <rect x="25" y="30" width="60" height="60" fill="#2C5AA0" rx="8"/>
+    <text x="55" y="76" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle">E</text>
+
+    <!-- Network nodes -->
+    <circle cx="55" cy="10" r="4" fill="#F39C12"/>
+    <circle cx="105" cy="60" r="4" fill="#F39C12"/>
+    <circle cx="55" cy="110" r="4" fill="#F39C12"/>
+    <circle cx="5" cy="60" r="4" fill="#F39C12" opacity="0.7"/>
+
+    <!-- Connections -->
+    <line x1="55" y1="30" x2="55" y2="14" stroke="#3498DB" stroke-width="1.5" opacity="0.6"/>
+    <line x1="85" y1="60" x2="101" y2="60" stroke="#3498DB" stroke-width="1.5" opacity="0.6"/>
+    <line x1="55" y1="90" x2="55" y2="106" stroke="#3498DB" stroke-width="1.5" opacity="0.6"/>
+    <line x1="25" y1="60" x2="9" y2="60" stroke="#3498DB" stroke-width="1.5" opacity="0.6"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="125" y="72" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#2C5AA0">EduBox</text>
+
+  <!-- Optional tagline (comment out if not needed) -->
+  <!-- <text x="120" y="92" font-family="Arial, sans-serif" font-size="14" fill="#7F8C8D">Education Without Boundaries</text> -->
+</svg>

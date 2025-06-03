@@ -1,0 +1,29 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- EduBox Network E Logo -->
+  <!-- Central E in box -->
+  <rect x="70" y="70" width="60" height="60" fill="#2C5AA0" rx="8"/>
+  <text x="100" y="116" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle">E</text>
+
+  <!-- Primary network nodes -->
+  <circle cx="100" cy="40" r="6" fill="#F39C12"/>
+  <circle cx="160" cy="100" r="6" fill="#F39C12"/>
+  <circle cx="100" cy="160" r="6" fill="#F39C12"/>
+  <circle cx="40" cy="100" r="6" fill="#F39C12"/>
+
+  <!-- Secondary network nodes -->
+  <circle cx="140" cy="60" r="5" fill="#3498DB"/>
+  <circle cx="140" cy="140" r="5" fill="#3498DB"/>
+  <circle cx="60" cy="140" r="5" fill="#3498DB"/>
+  <circle cx="60" cy="60" r="5" fill="#3498DB"/>
+
+  <!-- Network connections -->
+  <line x1="100" y1="70" x2="100" y2="46" stroke="#3498DB" stroke-width="1.5" opacity="0.6"/>
+  <line x1="130" y1="100" x2="154" y2="100" stroke="#3498DB" stroke-width="1.5" opacity="0.6"/>
+  <line x1="100" y1="130" x2="100" y2="154" stroke="#3498DB" stroke-width="1.5" opacity="0.6"/>
+  <line x1="70" y1="100" x2="46" y2="100" stroke="#3498DB" stroke-width="1.5" opacity="0.6"/>
+
+  <line x1="125" y1="75" x2="136" y2="64" stroke="#3498DB" stroke-width="1" opacity="0.4"/>
+  <line x1="125" y1="125" x2="136" y2="136" stroke="#3498DB" stroke-width="1" opacity="0.4"/>
+  <line x1="75" y1="125" x2="64" y2="136" stroke="#3498DB" stroke-width="1" opacity="0.4"/>
+  <line x1="75" y1="75" x2="64" y2="64" stroke="#3498DB" stroke-width="1" opacity="0.4"/>
+</svg>
